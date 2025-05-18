@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Audio & Whisper
+*.wav
+*.mp3
+*.m4a
+*.json
+
+# Models
+~/.cache/whisper/

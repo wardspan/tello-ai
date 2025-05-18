@@ -1,0 +1,11 @@
+djitellopy
+opencv-python
+openai
+whisper
+speechrecognition
+pyaudio
+pyttsx3
+openai-whisper
+sounddevice
+scipy
+pyttsx3
