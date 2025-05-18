@@ -22,4 +22,4 @@ env/
 *.json
 
 # Models
-~/.cache/whisper/
+~/.cache/whisper/tello_env_311/
